@@ -29,3 +29,7 @@ Because the 3rd row is incomplete, we return 2.
 
 # Time complexity     
 * O(logn)
+
+
+# difficulties
+* convert the int input to a long input to avoid overfolw
