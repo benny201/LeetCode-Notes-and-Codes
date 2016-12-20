@@ -30,7 +30,7 @@ public class Solution {
             }
         }
 
-        //find the first position of valid radiu
+        //find the first position of valid radiu by BinarySearch
         while (start+1 < end) {
             int mid = start + (end - start)/2;
             if (isValidRadiu(houses,heaters,mid)) {
@@ -51,11 +51,12 @@ public class Solution {
         return -1;
     }
     
-    
+    //test the validation of the radiu
     public boolean isValidRadiu(int[] houses, int[] heaters, int radiu) {
         int heatersLen = heaters.length;
         int heaterIndex = 0;
         for (int i=0; i < houses.length; ) {
+    // see whether the houses[i] is in the range of (heaters[heaterIndex] - radiu,heaters[heaterIndex] + radiu) or not
             if (houses[i] >= (heaters[heaterIndex] - radiu) && houses[i] <= (heaters[heaterIndex] + radiu)) {
                 i++;
             } else {
