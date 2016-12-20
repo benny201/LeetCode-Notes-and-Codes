@@ -1,4 +1,4 @@
-# problem 
+# Problem 
 
 You have a total of n coins that you want to form in a staircase shape, where every k-th row must have exactly k coins.
 
@@ -31,5 +31,5 @@ Because the 3rd row is incomplete, we return 2.
 * O(logn)
 
 
-# difficulties
+# Difficulties
 * convert the int input to a long input to avoid overfolw
