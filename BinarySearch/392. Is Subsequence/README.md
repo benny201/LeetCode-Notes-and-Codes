@@ -20,7 +20,7 @@ Return false.
 
 # My solution
 * call String.charAt(index) to compare each char in Source String with that in Target String.
-* 'no need to go through the whole Target String,just stop after testing all char in Source String'
+* **no need to go through the whole Target String,just stop after testing all char in Source String**
 
 # 难点     
 * just go through the String one time.
