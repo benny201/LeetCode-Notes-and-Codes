@@ -10,3 +10,6 @@
 * [454. 4Sum II](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/454.%204Sum%20II "454. 4Sum II")--->practice times: 1
 * [475. Heaters](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/475.%20Heaters "475. Heaters")--->practice times: 1
 
+## 2. BinaryTree-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree%26BST "Notes")      
+* [257. Binary Tree Paths](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree&BST/257.%20Binary%20Tree%20Paths "29. Divide Two Integers")--->practice times: 2
+* 
