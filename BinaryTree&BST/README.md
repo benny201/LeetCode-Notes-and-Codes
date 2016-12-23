@@ -7,7 +7,7 @@
 
 ## BSF
 * Breath first search : 多用于BT／图      
-* 广泛用于业界
+* 广泛用于业界       
 ### 应用 1：层序遍历 level order travesal : 用 QUEUE  
 * java 中 Queue 是interface. 用ArrayList or LinkedList 实现.       
 * queue.offer() / queue.add() 加入队列     
