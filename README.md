@@ -12,4 +12,5 @@
 
 ## 2. BinaryTree-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree%26BST "Notes")      
 * [257. Binary Tree Paths](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree&BST/257.%20Binary%20Tree%20Paths "29. Divide Two Integers")--->practice times: 2
-* 
+* [450. Delete Node in a BST](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree%26BST/450.%20Delete%20Node%20in%20a%20BST "450. Delete Node in a BST")--->practice times: 1
+
