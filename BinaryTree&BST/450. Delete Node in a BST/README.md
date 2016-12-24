@@ -9,12 +9,23 @@ If the node is found, delete the node.
 
 # My solution     
 
+* the most straight solution!
 * traversal the BST in inOrder and save the result in a List
 * see whether there's a key in the BST or Not by `int List.indexOf(Index) / boolean List.contains(key)`     
 * remove it by `List.remove(index)`
 * build a new tree by the new List.
 
-# 难点     
+# A better solution
+* recursion
+* divide the problem to three part: 
+```
+1. in left subtree : key < root.val
+2. in right subtree : key > root.val
+3. the root itself : key == root.val
+     
+```
+
+# 难点             
 * `List.indexOf`
 * build BST with a List的写法 : 参数不包含TreeNode root.     
 
