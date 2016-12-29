@@ -14,7 +14,7 @@
 * [257. Binary Tree Paths](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree&BST/257.%20Binary%20Tree%20Paths "29. Divide Two Integers")--->practice times: 2
 * [450. Delete Node in a BST](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree%26BST/450.%20Delete%20Node%20in%20a%20BST "450. Delete Node in a BST")--->practice times: 1
 
-## 3. Dynamic Programming-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree%26BST "Notes")
+## 3. Dynamic Programming-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming "Notes")
 * 53. Maximum Subarray
 * 62. Unique Paths
 * 63. Unique Paths II
