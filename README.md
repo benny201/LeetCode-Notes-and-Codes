@@ -14,3 +14,28 @@
 * [257. Binary Tree Paths](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree&BST/257.%20Binary%20Tree%20Paths "29. Divide Two Integers")--->practice times: 2
 * [450. Delete Node in a BST](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree%26BST/450.%20Delete%20Node%20in%20a%20BST "450. Delete Node in a BST")--->practice times: 1
 
+## 3. Dynamic Programming-->[Notes]](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree%26BST "Notes")
+* 53. Maximum Subarray
+* 62. Unique Paths
+* 63. Unique Paths II
+* 64. Minimum Path Sum
+* 70. Climbing Stairs
+* 95. Unique Binary Search Trees II
+* 96. Unique Binary Search Trees
+* 120. Triangle
+* 121. Best Time to Buy and Sell Stock
+* 198. House Robber
+* 213. House Robber II
+* 264. Ugly Number II
+* 279. Perfect Squares
+* 300. Longest Increasing Subsequence
+* 303. Range Sum Query - Immutable
+* 309. Best Time to Buy and Sell Stock with Cooldown
+* 338. Counting Bits
+* 343. Integer Break
+* 357. Count Numbers with Unique Digits
+* 375. Guess Number Higher or Lower II
+* 376. Wiggle Subsequence
+* 377. Combination Sum IV
+* 392. Is Subsequence
+* 377. Combination Sum IV
