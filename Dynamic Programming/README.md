@@ -29,6 +29,7 @@ return Math.min(divide(x+1), divide(x+2));
 * 求最小值/最大值
 * 判断是否可行
 * 统计方案个数
+* 有无后效性
 
 ## 6.不适用DP的问题
 * 求出具体的方案, 而非个数(极有可能是用搜索来做！！！)     
@@ -55,3 +56,8 @@ return Math.min(divide(x+1), divide(x+2));
 * intialize: 起点
 * answer: 终点
 
+### 知识点补充:     
+ * subarray个数: n^2 个     
+ * subsquence : 2^n 个
+
+  
