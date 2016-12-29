@@ -10,9 +10,37 @@
 * [454. 4Sum II](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/454.%204Sum%20II "454. 4Sum II")--->practice times: 1
 * [475. Heaters](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/475.%20Heaters "475. Heaters")--->practice times: 1
 
-## 2. BinaryTree-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree%26BST "Notes")      
+## 2. BinaryTree-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree%26BST "Notes")  
+* 94. Binary Tree Inorder Traversal
+* 95. Unique Binary Search Trees II
+* 96. Unique Binary Search Trees
+* 100. Same Tree
+* 101. Symmetric Tree
+* 102. Binary Tree Level Order Traversal
+* 103. Binary Tree Zigzag Level Order Traversal
+* 104. Maximum Depth of Binary Tree
+* 105. Construct Binary Tree from Preorder and Inorder Traversal
+* 106. Construct Binary Tree from Inorder and Postorder Traversal
+* 107. Binary Tree Level Order Traversal II
+* 108. Convert Sorted Array to Binary Search Tree
+* 110. Balanced Binary Tree
+* 111. Minimum Depth of Binary Tree
+* 112. Path Sum
+* 113. Path Sum II
+* 114. Flatten Binary Tree to Linked List
+* 116. Populating Next Right Pointers in Each Node
+* 129. Sum Root to Leaf Numbers
+* 144. Binary Tree Preorder Traversal
+* 173. Binary Search Tree Iterator
+* 199. Binary Tree Right Side View
+* 226. Invert Binary Tree
+* 230. Kth Smallest Element in a BST
+* 235. Lowest Common Ancestor of a Binary Search Tree
+* 236. Lowest Common Ancestor of a Binary Tree
 * [257. Binary Tree Paths](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree&BST/257.%20Binary%20Tree%20Paths "29. Divide Two Integers")--->practice times: 2
+* 337. House Robber III
 * [450. Delete Node in a BST](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree%26BST/450.%20Delete%20Node%20in%20a%20BST "450. Delete Node in a BST")--->practice times: 1
+* 
 
 ## 3. Dynamic Programming-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming "Notes")
 * 53. Maximum Subarray
