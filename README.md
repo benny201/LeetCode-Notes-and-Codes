@@ -56,7 +56,7 @@
 * 213. House Robber II
 * 264. Ugly Number II
 * 279. Perfect Squares
-* [300. Longest Increasing Subsequence](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence "300. Longest Increasing Subsequence")--->practice times: 2
+* [300. Longest Increasing Subsequence](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence "300. Longest Increasing Subsequence")--->practice times: 2 (better solution: binary search)
 * 303. Range Sum Query - Immutable
 * 309. Best Time to Buy and Sell Stock with Cooldown
 * 338. Counting Bits
