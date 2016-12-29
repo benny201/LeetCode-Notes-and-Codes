@@ -10,7 +10,7 @@ Your algorithm should run in O(n2) complexity.
 # My solution
 
 * Dynamic Programming
-* F[i] 代表以｀nums[i]｀为终点所得到最长的subsequence.
+* F[i] 代表以`nums[i]`为终点所得到最长的subsequence.
 * 从 0 到 i 更新 F[i].
 * 更新条件1 : nums[prevIndex] < nums[curIndex] 即符合递增的属性   
 * 更新条件2 : prevIndex < curIndex 即必须是i以前的数
