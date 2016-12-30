@@ -44,7 +44,7 @@
 
 ## 3. Dynamic Programming-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming "Notes")
 * 53. Maximum Subarray
-* 62. Unique Paths
+* [62. Unique Paths](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/62.%20Unique%20Paths "62. Unique Paths")--->practice times: `3`
 * 63. Unique Paths II
 * [64. Minimum Path Sum](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/64.%20Minimum%20Path%20Sum "64. Minimum Path Sum")--->practice times: `3` 
 * [70. Climbing Stairs](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/70.%20Climbing%20Stairs "70. Climbing Stairs")--->practice times: `2` 
