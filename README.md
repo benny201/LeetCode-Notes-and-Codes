@@ -47,8 +47,6 @@
 * 62. Unique Paths
 * 63. Unique Paths II
 * [64. Minimum Path Sum](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/64.%20Minimum%20Path%20Sum "64. Minimum Path Sum")--->practice times: `3` 
-
-
 * [70. Climbing Stairs](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/70.%20Climbing%20Stairs "70. Climbing Stairs")--->practice times: `2` 
 * 95. Unique Binary Search Trees II
 * 96. Unique Binary Search Trees
