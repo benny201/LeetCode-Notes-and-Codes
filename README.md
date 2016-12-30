@@ -1,4 +1,4 @@
-# LeetCode[已完成:180题]　          
+# LeetCode[Completed:180]　          
       
 ## 1. BinarySearch-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch "Notes")     
 
@@ -47,7 +47,7 @@
 * 62. Unique Paths
 * 63. Unique Paths II
 * 64. Minimum Path Sum
-* 70. Climbing Stairs
+* [70. Climbing Stairs](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/70.%20Climbing%20Stairs "70. Climbing Stairs")--->practice times: 2 (better solution: binary search)
 * 95. Unique Binary Search Trees II
 * 96. Unique Binary Search Trees
 * 120. Triangle
