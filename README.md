@@ -2,13 +2,13 @@
       
 ## 1. BinarySearch-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch "Notes")     
 
-* [29. Divide Two Integers](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/29.Divide%20Two%20Integers "29. Divide Two Integers")--->practice times: 1
-* [50. Pow(x, n)](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/50.%20Pow(x%2C%20n) "50. Pow(x, n)")--->practice times: 1
-* [69. Sqrt(x)](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/69.%20Sqrt(x) "69. Sqrt(x)")--->practice times: 2
-* [392. Is Subsequence](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/392.%20Is%20Subsequence "392. Is Subsequence")--->practice times: 2(没有用到binary search，只用了linear search)
-* [441. Arranging Coins](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/441.%20Arranging%20Coins "441. Arranging Coins")--->practice times: 1
-* [454. 4Sum II](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/454.%204Sum%20II "454. 4Sum II")--->practice times: 1
-* [475. Heaters](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/475.%20Heaters "475. Heaters")--->practice times: 1
+* [29. Divide Two Integers](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/29.Divide%20Two%20Integers "29. Divide Two Integers")--->practice times: `1`
+* [50. Pow(x, n)](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/50.%20Pow(x%2C%20n) "50. Pow(x, n)")--->practice times: `1`
+* [69. Sqrt(x)](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/69.%20Sqrt(x) "69. Sqrt(x)")--->practice times: `2`
+* [392. Is Subsequence](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/392.%20Is%20Subsequence "392. Is Subsequence")--->practice times: `2`(没有用到binary search，只用了linear search)
+* [441. Arranging Coins](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/441.%20Arranging%20Coins "441. Arranging Coins")--->practice times: `1`
+* [454. 4Sum II](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/454.%204Sum%20II "454. 4Sum II")--->practice times: `1`
+* [475. Heaters](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/475.%20Heaters "475. Heaters")--->practice times: `1`
 
 ## 2. BinaryTree-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree%26BST "Notes")  
 * 94. Binary Tree Inorder Traversal
@@ -37,17 +37,19 @@
 * 230. Kth Smallest Element in a BST
 * 235. Lowest Common Ancestor of a Binary Search Tree
 * 236. Lowest Common Ancestor of a Binary Tree
-* [257. Binary Tree Paths](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree&BST/257.%20Binary%20Tree%20Paths "29. Divide Two Integers")--->practice times: 2
+* [257. Binary Tree Paths](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree&BST/257.%20Binary%20Tree%20Paths "29. Divide Two Integers")--->practice times: `2`
 * 337. House Robber III
-* [450. Delete Node in a BST](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree%26BST/450.%20Delete%20Node%20in%20a%20BST "450. Delete Node in a BST")--->practice times: 1
+* [450. Delete Node in a BST](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinaryTree%26BST/450.%20Delete%20Node%20in%20a%20BST "450. Delete Node in a BST")--->practice times: `1`
 * 
 
 ## 3. Dynamic Programming-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming "Notes")
 * 53. Maximum Subarray
 * 62. Unique Paths
 * 63. Unique Paths II
-* 64. Minimum Path Sum
-* [70. Climbing Stairs](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/70.%20Climbing%20Stairs "70. Climbing Stairs")--->practice times: 2 (better solution: binary search)
+* [64. Minimum Path Sum](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/64.%20Minimum%20Path%20Sum "64. Minimum Path Sum")--->practice times: `3` 
+
+
+* [70. Climbing Stairs](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/70.%20Climbing%20Stairs "70. Climbing Stairs")--->practice times: `2` 
 * 95. Unique Binary Search Trees II
 * 96. Unique Binary Search Trees
 * 120. Triangle
@@ -56,7 +58,7 @@
 * 213. House Robber II
 * 264. Ugly Number II
 * 279. Perfect Squares
-* [300. Longest Increasing Subsequence](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence "300. Longest Increasing Subsequence")--->practice times: 2 (better solution: binary search)
+* [300. Longest Increasing Subsequence](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence "300. Longest Increasing Subsequence")--->practice times: `2` (better solution: binary search)
 * 303. Range Sum Query - Immutable
 * 309. Best Time to Buy and Sell Stock with Cooldown
 * 338. Counting Bits
