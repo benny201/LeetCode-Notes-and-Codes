@@ -13,14 +13,8 @@ Your code should return the length of LCS.
 * 2 : res[i - 1][j] (exclude i);
 * 3 : res[i][j - 1] (exclude j);
 * update the state array by the situations above;
-
-
-# Time complexity     
-* O(n^2)
-
-
-
-My solution in java:
+       
+# My solution in java:
 ```
 public class Solution {
     /**
@@ -63,3 +57,8 @@ public class Solution {
     }
 }
 ```
+
+# Time complexity     
+* O(n^2)
+
+
