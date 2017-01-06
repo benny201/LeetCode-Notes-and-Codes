@@ -22,8 +22,6 @@ public class Solution {
      * @return: The length of longest common subsequence of A and B.
      */
     public int longestCommonSubsequence(String A, String B) {
-        // write your code here
-        // write your code here
         if (A == null || A.length() == 0) {
             return 0;
         }
