@@ -60,4 +60,16 @@ return Math.min(divide(x+1), divide(x+2));
  * subarray个数: n^2 个     
  * subsquence : 2^n 个
 
+### 8.2 单序列     
+* 一般是字符串序列     
+* 区别：f[i] 表第i个的state / 坐标型中f[i]表前i个的state     
+* Word Break : word的长度有限，可以先检测最长word     
+* !!!: O(n^2) 下用递推检测一个String是否是回文串palindrome
+
+### 8.3双序列型
+* e.g longest common subsequence (LCS : an important eaxample)
+* f[i][j] : substring(0,i) 以及 substring(0,j) 的结果   
+* 研究最后一个字符的匹配关系.
+* 分多种情况讨论f[i - 1][j - 1] & f[i - 1][j] & f[i][j - 1]的转化关系
+
   
