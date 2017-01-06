@@ -15,7 +15,7 @@ Your code should return the length of LCS.
 * update the state array by the situations above;
        
 # My solution in java:
-```
+```java
 public class Solution {
     /**
      * @param A, B: Two strings.
