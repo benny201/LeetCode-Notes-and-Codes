@@ -15,7 +15,7 @@ c) Replace a character
 * 若不等于: 三种方案: 1) res[i - 1][j - 1] + 1: replace & 2) res[i][j - 1] + 1 : delete  & 3) res[i - 1][j] + 1 : insert
 
 # My solution in Java
-```
+```java
 public class Solution {
     public int minDistance(String word1, String word2) {
         if (word1 == null || word2 == null) {
