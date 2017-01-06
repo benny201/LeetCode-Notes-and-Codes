@@ -14,7 +14,7 @@ Your code should return the length of LCS.
 * 3 : res[i][j-1]->(exclude j);
 * update the state array by the situations above;
        
-# My solution in java:
+# My solution in Java:
 
 ```java
 public class Solution {
