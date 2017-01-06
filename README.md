@@ -49,8 +49,10 @@
 * [63. Unique Paths II](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/63.%20Unique%20Paths%20II "63. Unique Paths II")--->practice times: `2` 
 * [64. Minimum Path Sum](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/64.%20Minimum%20Path%20Sum "64. Minimum Path Sum")--->practice times: `3` 
 * [70. Climbing Stairs](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/70.%20Climbing%20Stairs "70. Climbing Stairs")--->practice times: `2` 
+* [72. Edit Distance](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/72.%20Edit%20Distance "72. Edit Distance")--->practice times: `1`
 * 95. Unique Binary Search Trees II
 * 96. Unique Binary Search Trees
+* [97. Interleaving String](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/97.%20Interleaving%20String "97. Interleaving String")--->practice times: `1`
 * 120. Triangle
 * 121. Best Time to Buy and Sell Stock
 * 198. House Robber
