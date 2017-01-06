@@ -9,12 +9,13 @@ Your code should return the length of LCS.
 
 * state: res[i][j] : the LCS of two String(A.substring(0,i + 1) , B.substring(0,j + 1));
 * There are three situation to find the LCS : 
-* 1 : res[i - 1][j - 1] + 1 (include i,j);
-* 2 : res[i - 1][j] (exclude i);
-* 3 : res[i][j - 1] (exclude j);
+* 1 : res[i-1][j-1] + 1 (include i,j);
+* 2 : res[i-1][j]->(exclude i);
+* 3 : res[i][j-1]->(exclude j);
 * update the state array by the situations above;
        
 # My solution in java:
+
 ```java
 public class Solution {
     /**
