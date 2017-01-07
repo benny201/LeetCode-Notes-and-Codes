@@ -14,7 +14,7 @@
 * queue.offer() / queue.add() 加入队列     
 * queue.poll() 出列
 
-```
+```java
 // create queue
 Queue<TreeNode> Q = new ArrayList<TreeNode>();
 Q.offer(root);
