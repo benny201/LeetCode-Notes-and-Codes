@@ -13,7 +13,7 @@ When s3 = "aadbbbaccc", return false.
 
 # My solution
 
-* 研究最后一个字符的匹配关系. 跟 leetcode 72 类似.
+* 研究最后一个字符的匹配关系. 跟[72. Edit Distance](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/72.%20Edit%20Distance "72. Edit Distance")类似.
 * 分两种情况讨论 ：   
 * 1、S1 的第i位 等于 S3 的第i + j位 : 如果res[i - 1][j] = true 即去掉第i位也匹配，说明res[i][j]也匹配     
 * 2、S2 的第i位 不等于 S3 的第i + j位 :  如果res[i][j - 1] = true 即去掉第i位也匹配，说明res[i][j]也匹配
