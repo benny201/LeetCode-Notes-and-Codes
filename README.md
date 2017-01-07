@@ -55,6 +55,7 @@
 * [97. Interleaving String](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/97.%20Interleaving%20String "97. Interleaving String")--->practice times: `1`
 * 120. Triangle
 * 121. Best Time to Buy and Sell Stock
+* [152. Maximum Product Subarray](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/152.%20Maximum%20Product%20Subarray "152. Maximum Product Subarray")--->practice times: `1`
 * 198. House Robber
 * 213. House Robber II
 * 264. Ugly Number II
