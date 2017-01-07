@@ -70,3 +70,5 @@
 * 376. Wiggle Subsequence
 * 377. Combination Sum IV
 * 392. Is Subsequence
+
+## 3. Linked List-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming "Notes")
