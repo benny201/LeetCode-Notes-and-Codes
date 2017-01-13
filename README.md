@@ -63,6 +63,7 @@
 * [300. Longest Increasing Subsequence](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence "300. Longest Increasing Subsequence")--->practice times: `2` (better solution: binary search)
 * 303. Range Sum Query - Immutable
 * 309. Best Time to Buy and Sell Stock with Cooldown
+* [322. Coin Change](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/322.%20Coin%20Change "322. Coin Change")--->practice times: `1`
 * 338. Counting Bits
 * 343. Integer Break
 * 357. Count Numbers with Unique Digits
@@ -70,5 +71,6 @@
 * 376. Wiggle Subsequence
 * 377. Combination Sum IV
 * 392. Is Subsequence
+* [474. Ones and Zeroes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/474.%20Ones%20and%20Zeroes "474. Ones and Zeroes")--->practice times: `1`
 
 ## 4. Linked List-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming "Notes")
