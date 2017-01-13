@@ -80,4 +80,4 @@ public class Solution {
 
 
 # Time complexity     
-* O(s1_len * s2_len)
+* O(n ^ 3)
