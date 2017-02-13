@@ -74,3 +74,7 @@
 * [474. Ones and Zeroes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming/474.%20Ones%20and%20Zeroes "474. Ones and Zeroes")--->practice times: `1`
 
 ## 4. Linked List-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/Dynamic%20Programming "Notes")
+
+## 5. Breadth-first search
+* [207. Course Schedule](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BFS/207.%20Course%20Schedule "207. Course Schedule")--->practice times: `1`
+* [Topological Sorting](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BFS/Topological%20Sorting "Topological Sorting")--->practice times: `1`
