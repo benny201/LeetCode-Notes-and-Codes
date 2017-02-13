@@ -17,3 +17,27 @@
 * curt != null && curt.val 先判断对象是否为空
 
 ## reverse linked list
+
+* 1 -> 2 -> 3
+* pre -> null; cur -> 1;
+* 反转就是 1 指向 pre， 2 指向 cur， 然后pre ＝ 2， cur ＝ 3；
+
+```java
+		ListNode pre = null;
+        ListNode cur = head;
+        
+        while (cur != null) {
+            ListNode temp = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = temp;
+        }
+        
+        return pre;
+```
+
+
+
+
+
+
