@@ -1,4 +1,4 @@
-# LeetCode[Completed:191]　          
+# LeetCode[Completed:195]　          
       
 ## 1. BinarySearch-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch "Notes")     
 
