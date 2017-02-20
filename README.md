@@ -1,5 +1,5 @@
-# LeetCode[Completed:195]　          
-      
+# LeetCode[[Completed:195](https://leetcode.com/benny201/)]
+ [My leetcode website :)](https://leetcode.com/benny201/)
 ## 1. BinarySearch-->[Notes](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch "Notes")     
 
 * [29. Divide Two Integers](https://github.com/benny201/LeetCode-Notes-and-Codes/tree/master/BinarySearch/29.Divide%20Two%20Integers "29. Divide Two Integers")--->practice times: `1`
